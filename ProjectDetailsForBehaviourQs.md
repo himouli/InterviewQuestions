@@ -13,12 +13,12 @@
 * Ability to access / report impact during/after LSE event
 
 * Impact reported during an LSE as
-* Availability : Number of MAZ cluster unavailable in the region
-* Number of MAZ primary clusters unavailable
-* Number of MAZ secondary clusters unavailable
-* Lag : P99, P95, P90 mirror lag
+**Availability : Number of MAZ cluster unavailable in the region
+** Number of MAZ primary clusters unavailable
+** Number of MAZ secondary clusters unavailable
+** Lag : P99, P95, P90 mirror lag
 
-*  Dashboar for Instance Availability
+*  Dashboard for Instance Availability
 *  E2E completion metric for GDB operations.
 
 * LSE Dashboard to follow during differnt kind of LSEs
@@ -30,4 +30,4 @@
   * VM throttling, SN availability
 
 
-  * VM
+ 
