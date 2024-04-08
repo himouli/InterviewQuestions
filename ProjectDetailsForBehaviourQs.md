@@ -14,9 +14,9 @@
 
 * Impact reported during an LSE as
 * Availability : Number of MAZ cluster unavailable in the region
-*                Number of MAZ primary clusters unavailable
-*                Number of MAZ secondary clusters unavailable
-*  Lag : P99, P95, P90 mirror lag
+* Number of MAZ primary clusters unavailable
+* Number of MAZ secondary clusters unavailable
+* Lag : P99, P95, P90 mirror lag
 
 *  Dashboar for Instance Availability
 *  E2E completion metric for GDB operations.
