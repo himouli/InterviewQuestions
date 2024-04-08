@@ -28,6 +28,23 @@
   * Network Partition separating an AZ
   * EC2 rack down
   * VM throttling, SN availability
+ 
+  ### Security DDOS
+  * 3 signals of malicious activity that we are particularly interested
+  ** Process Crashes
+  ** Connection Exhaustion
+  ** Networking Card Exhaustion ( pkt drops etc...)
+
+  ### SOP Review
+  ** Review current SOPs interms of correctness and coverage of all possible scenarios
+  ** Create new SOPs for identified scenarios
+  ** Migrate existing SOPs to git based
+  ** Set up a process for some scenarios which impacted customer experience
+  ** Set up a process for oncall in case SOP was not helpful
+  ** Automate with SOP runner
+
+  
+  
 
 
  
