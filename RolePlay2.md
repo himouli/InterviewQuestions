@@ -1,4 +1,5 @@
-Q: suppose you have a good engineer (the role player) who is  frustrated with changing priorities. 
+## Q: 
+suppose you have a good engineer (the role player) who is  frustrated with changing priorities. 
 how do you handle the situation as a manager...how do you role play the above
 
 A:
