@@ -41,6 +41,17 @@
      * Set up a process for some scenarios which impacted customer experience
      * Set up a process for oncall in case SOP was not helpful
      * Automate with SOP runner
+ 
+  ### Onboarding and Ramp-Up Plan
+     * 30 day ramp-up and boot camp
+     * OnCall readiness in 60 days
+
+  ### Parallel and Multi-Region Deployment
+     * Reduce Time for Deployment
+     * Small, Medium and Large Clusters
+     * Reduction in the manual steps as part of deploying
+     * Quick identification of any deployment issues through metrics
+       
 
   
   
